@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pesquisa no Github</string>
+    <string name="s_search_result_title">Resultado</string>
+    <string name="s_total_title">Total: </string>
+    <string name="s_search_title">Pesquisar</string>
+    <string name="s_search">Pesquisar</string>
+    <string name="image_result_empty">Não tem resultado na busca</string>
+    <string name="s_watchers">Visualizações</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
